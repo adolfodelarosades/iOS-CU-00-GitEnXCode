@@ -12,6 +12,7 @@
 		18B365852317E9E20042EB8C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18B365832317E9E20042EB8C /* Main.storyboard */; };
 		18B365872317E9FB0042EB8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18B365862317E9FB0042EB8C /* Assets.xcassets */; };
 		18B3658A2317E9FB0042EB8C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18B365882317E9FB0042EB8C /* LaunchScreen.storyboard */; };
+		18B365922317F2410042EB8C /* prueba.txt in Resources */ = {isa = PBXBuildFile; fileRef = 18B365912317F2410042EB8C /* prueba.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		18B365862317E9FB0042EB8C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18B365892317E9FB0042EB8C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18B3658B2317E9FB0042EB8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18B365912317F2410042EB8C /* prueba.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = prueba.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 			children = (
 				18B3657E2317E9E20042EB8C /* iOS-CU-00-GitEnXCode */,
 				18B3657D2317E9E20042EB8C /* Products */,
+				18B365912317F2410042EB8C /* prueba.txt */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,6 +128,7 @@
 				18B3658A2317E9FB0042EB8C /* LaunchScreen.storyboard in Resources */,
 				18B365872317E9FB0042EB8C /* Assets.xcassets in Resources */,
 				18B365852317E9E20042EB8C /* Main.storyboard in Resources */,
+				18B365922317F2410042EB8C /* prueba.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
