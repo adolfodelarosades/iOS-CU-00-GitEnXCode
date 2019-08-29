@@ -13,6 +13,7 @@
 		18B365872317E9FB0042EB8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18B365862317E9FB0042EB8C /* Assets.xcassets */; };
 		18B3658A2317E9FB0042EB8C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18B365882317E9FB0042EB8C /* LaunchScreen.storyboard */; };
 		18B365922317F2410042EB8C /* prueba.txt in Resources */ = {isa = PBXBuildFile; fileRef = 18B365912317F2410042EB8C /* prueba.txt */; };
+		18B365942317F48A0042EB8C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 18B365932317F48A0042EB8C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		18B365892317E9FB0042EB8C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18B3658B2317E9FB0042EB8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18B365912317F2410042EB8C /* prueba.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = prueba.txt; sourceTree = "<group>"; };
+		18B365932317F48A0042EB8C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 				18B3657E2317E9E20042EB8C /* iOS-CU-00-GitEnXCode */,
 				18B3657D2317E9E20042EB8C /* Products */,
 				18B365912317F2410042EB8C /* prueba.txt */,
+				18B365932317F48A0042EB8C /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -127,6 +130,7 @@
 			files = (
 				18B3658A2317E9FB0042EB8C /* LaunchScreen.storyboard in Resources */,
 				18B365872317E9FB0042EB8C /* Assets.xcassets in Resources */,
+				18B365942317F48A0042EB8C /* README.md in Resources */,
 				18B365852317E9E20042EB8C /* Main.storyboard in Resources */,
 				18B365922317F2410042EB8C /* prueba.txt in Resources */,
 			);
