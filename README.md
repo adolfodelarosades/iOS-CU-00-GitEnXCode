@@ -1,4 +1,4 @@
-# Gitexample
+# Git en Xcode
 
 Git Tutorial iOS App Demo
 
